@@ -1,0 +1,247 @@
+body {
+    
+}
+
+h1 {
+    color: red;
+}
+
+h1:hover {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+p:hover {
+    color: blue;
+}
+
+#Eminem {
+    background-color: orange;
+}
+
+#Beyonce {
+    background-color: brown;
+}
+
+#Eminem h1 {
+    color: red;
+}
+
+#Eminem p {
+    color: yellow;
+}
+
+#AlanWalker {
+    background-color: green;
+}
+
+#Taylor {
+    background-color: yellow;
+}
+
+#Ariana {
+    background-color: Red;
+}
+
+#Adele {
+    background-color: grey;
+}
+
+#Selena {
+    background-color: purple;
+}
+
+#Justin {
+    background-color: blue;
+}
+
+#Shawn {
+    background-color: black;
+}
+
+#Ariana h1 {
+    color: blue;
+}
+
+#Ariana p {
+    color: blue;
+}
+
+#Justin h1:hover {
+    color: red;
+}
+
+#Justin p:hover {
+    color: red;
+}
+
+#Shawn ul {
+    color: yellow;
+}
+
+#AlanWalker p {
+    font-size: 18px;
+}
+
+#Selena p {
+    font-size: 18px;
+}
+
+#Shawn p {
+    font-size: 18px;
+}
+
+#djkhaled p {
+    font-size: 18px;
+}
+
+#Justin p {
+    font-size: 18px;
+}
+
+#Ariana p {
+    font-size: 18px;
+}
+
+#Adele p {
+    font-size: 18px;
+}
+
+#Taylor p {
+    font-size: 18px;
+}
+
+#Beyonce p {
+    font-size: 18px;
+}
+
+#Eminem p {
+    font-size: 18px;
+}
+
+#Eminem:hover {
+    background-color: blue;
+}
+
+#Title h1 {
+    background-color: green;
+}
+
+#Title h1 {
+    text-align: center;
+}
+
+#Title:hover {
+    background-color: red;
+}
+
+#Beyonce:hover {
+    background-color: purple;
+}
+
+#Taylor:hover {
+    background-color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#Ariana:hover {
+    background-color: pink;
+}
+
+h2 {
+    color: purple;
+}
+
+#Beyonce h2 {
+    color: grey;
+}
+
+#Adele:hover {
+    background-color: #FF1493;
+}
+
+#Justin:hover {
+    background-color: #C71585;
+}
+
+#Dj:hover {
+    background-color: 	#FFDEAD;
+}
+
+#Shawn:hover {
+    background-color: 	#000080;
+}
+
+#Selena:hover {
+    background-color: grey;
+}
+
+#Selena h2 {
+    color: #00FF00;
+}
+
+#AlanWalker:hover {
+    background-color: #003300;
+}
+
+h3 {
+    color:#00CED1;
+}
+
+ul {
+    color: #FFA07A;
+}
+
+ul {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#Eminem ul {
+    color: 	#D3D3D3;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+    text-align: center;
+}
+
+#Title h1 {
+    font-family: 'Lato', sans-serif;
+font-family: 'Jim Nightshade', cursive;
+}
+
+h1 {
+    font-family: 'Diplomata SC', cursive;
+}
+
+#Title:hover {
+    background-color: Blue;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+
+img {
+    border-radius: 50%;
+}
+
